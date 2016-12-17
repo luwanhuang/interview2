@@ -1,0 +1,17 @@
+.fixednav {
+    position: fixed;
+    padding-right: 15px;
+    padding-left: 15px;
+    top: 0px;
+   
+    width: 100%;
+    z-index: 1;
+}
+.op {
+
+    margin-bottom: 20px;
+}
+.navbar{
+
+    margin-bottom: 0px;
+}
